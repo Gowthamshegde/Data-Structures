@@ -5,23 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a4e4d14b-6f6e-4740-a1bc-28cff717b7c8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Searching.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FindEvenDigitNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinearSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Mountain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReversedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RowColumn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorting/Insertion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorting/Selection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SplitArrayLargestSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SumTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cyclic/CyclicSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +35,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.BinarySearch.executor": "Run",
+    "Application.CyclicSort.executor": "Run",
     "Application.FindEvenDigitNumber.executor": "Run",
     "Application.Insertion.executor": "Run",
     "Application.Main.executor": "Run",
@@ -132,6 +118,11 @@
           <url>file://$PROJECT_DIR$/src/Sorting/Selection.java</url>
           <line>6</line>
           <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Cyclic/CyclicSort.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="21" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
